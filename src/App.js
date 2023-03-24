@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-
-function App() {
+function PricingCart() {
   return (
     <div className="App">
       <section class="pricing py-5">
@@ -87,4 +85,4 @@ function App() {
   );
 }
 
-export default App;
+export default PricingCart;
